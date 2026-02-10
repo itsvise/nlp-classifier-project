@@ -38,7 +38,7 @@ The project includes a **Streamlit** web application, allowing users to interact
 * **Environment**: Developed using Google Colaboratory
 
 ## Project History
-This project was initially developed in **April 2024**. The source code has been refactored for English-speaking professional environments, while the original project documentation (in Italian) is available in the `docs/` folder for historical reference.
+This project was initially developed for the school masterpiece UNICA in **April 2024**. The source code has been refactored for English-speaking professional environments, while the original project documentation (in Italian) is available in the `docs/` folder for historical reference.
 
 ## License
 This project is licensed under the **MIT License**. Please see the [LICENSE](LICENSE) file for details.
